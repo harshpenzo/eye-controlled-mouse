@@ -2,6 +2,9 @@
 
 Control your mouse using your **eyes** with this Python-based real-time project using **OpenCV**, **MediaPipe**, and **PyAutoGUI**. No mouse, no touchpad — just blink and move your eyes!
 
+![ChatGPT Image May 20, 2025, 01_42_43 PM](https://github.com/user-attachments/assets/0182829d-90c5-45e1-9763-6709c77a9e19)
+
+
 
 ## ✨ Features
 
